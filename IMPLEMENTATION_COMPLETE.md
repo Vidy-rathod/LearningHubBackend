@@ -110,7 +110,7 @@ Your frontend can now fetch course content and display videos in iframes!
             "videoUrl": "https://www.youtube.com/embed/pQN-pnXPaVg",
             "duration": 600,
             "position": 1,
-            "isPreview": true
+            "": true
           }
         ]
       }
